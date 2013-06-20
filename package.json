@@ -1,0 +1,23 @@
+{
+  "name": "node-raspivid",
+  "version": "0.0.1",
+  "description": "node wrapper for raspivid binary on raspberry pi",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/motzke/node-raspivid.git"
+  },
+  "keywords": [
+    "raspberry",
+    "video",
+    "raspivid",
+    "raspistill"
+  ],
+  "author": "Matthias Motzke",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "980d75a1324bd1b4fcae6081d45d36b7ef5d381f"
+}
