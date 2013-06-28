@@ -1,6 +1,6 @@
 {
   "name": "node-raspivid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node wrapper for raspivid binary on raspberry pi",
   "main": "lib/index.js",
   "scripts": {
